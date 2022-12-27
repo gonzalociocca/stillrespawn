@@ -1,0 +1,7 @@
+name: Plugin
+version: '1.0-SNAPSHOT'
+main: me.gonzalociocca.plugin.Plugin
+api-version: 1.19
+authors: [ GonzaloCiocca ]
+description: AldeaMu Plugin
+website: www.aldeamu.com
